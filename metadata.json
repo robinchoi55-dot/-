@@ -1,0 +1,10 @@
+{
+  "name": "RouteGenie - AI 여행 일정 및 동선 최적화 플래너",
+  "description": "구글 지도 기반의 똑똑한 AI 여행 플래너. 일정, 명소, 동선 최적화, 테마 필터, 호텔 및 맛집 추천까지 한번에 제공합니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
